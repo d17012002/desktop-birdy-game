@@ -4,7 +4,7 @@ This is a fun and super cool birdy game. Help the little birdy to save his life 
 Go for it and beat my highest score that is 37. 
  <br>
  
- Setup file of the application is also provided.
+ Setup file of the game is also provided.
  
 Version - 0.1
 Base Architecture
@@ -24,3 +24,8 @@ Base Architecture
 - After the installation is finished run `npm run start` and wait for couple of seconds and here you go!!:fire::fire:
 
 Demo video:
+
+
+https://user-images.githubusercontent.com/81901470/192260010-12988451-8667-40e2-9db1-43cc8ad6eb58.mp4
+
+
